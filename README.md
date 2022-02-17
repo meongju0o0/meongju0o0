@@ -3,7 +3,7 @@
 - KHU CSE 19
 - KHU MGMT 23
 - KHU DKE Lab
-- ROK Army 22nd Division Infantry(machine gunner)
+- ROK Army 22nd Division Infantry(machine gunner, Sergeant)
 ---
 
 
