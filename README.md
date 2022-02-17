@@ -1,4 +1,4 @@
-## JuYeong's profile
+>JuYeong's profile
 - Gumi High School Science department
 - KHU CSE 19
 - KHU MGMT 23
@@ -7,7 +7,7 @@
 ---
 
 
-## Introduce myself
+>Introduce myself
 - 👋 Hi, I’m @majorWallet
 - 👀 I’m interested in analyzing data and artificial intelligence
 - 🌱 I’m currently learning ML and FE, BE
