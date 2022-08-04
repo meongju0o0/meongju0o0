@@ -1,6 +1,6 @@
 ---
 >## JuYeong's profile
-- Gumi High School Science department
+- Gumi High School Science epartment
 - KHU CSE 19
 - KHU MGMT 24
 - KHU DKE Lab
