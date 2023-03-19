@@ -3,7 +3,6 @@
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 * Tel: +82 10-9809-9551
 ### Education
-* Department of Business Administration, Kyung Hee University, Republic of Korea, Bachelor Diploma, 2024.03--
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Diploma, 2019.03--
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03--2019.01
 ### Work Experience
@@ -11,6 +10,7 @@
 * 2020.08--2021.11: Republic of Korea Army 22nd Division Infantry (Machine Gunner)
 ### Publications
 * Kijin Kwon, Juyeong Shin, Youngkoo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618#). Journal of Korea Computer Congress, Pages 1223 - 1225
+* Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](). Journal of Korea Software Congress, Pages 1223 - 1225
 ### Research Interests
 * Machine Learning / Deep Learning / Graph Convolutional Network
 ### Skills
