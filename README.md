@@ -20,7 +20,7 @@
 * Top Award in Undergraduate Paper Contest
   * Korea Software Congress, 2022
 ### Research Interests
-* Machine Learning / Deep Learning / Graph Convolutional Network
+* Machine Learning / Deep Learning / Graph Convolutional Network / Distributed Graph Neural Network
 ### Skills
 #### Programming Languages
 Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
