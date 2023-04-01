@@ -25,7 +25,7 @@
 #### Programming Languages
 Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
 #### Libraries
-pandas, numpy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL, DistDGL
+pandas, numpy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 <!---
 majorWallet/majorWallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
