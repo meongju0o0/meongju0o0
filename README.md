@@ -15,12 +15,15 @@
   * Role: Undergraduate Research Student (2022) & Development of Graph Sampling Techniques
 ### Publications
 * Kijin Kwon, Juyeong Shin, Youngkoo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618#). Journal of Korea Computer Congress, Pages 1223 - 1225
-* Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310 
+* Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
+* Juyeong Shin, Youngkoo Lee. (2023). [Graph Data Augemntation for Subgraph Sampling Based GCN](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
 ### Awards and Honors
 * Top Award in Undergraduate Paper Contest
   * Korea Software Congress, 2022
 ### Research Interests
-* Machine Learning / Deep Learning / Graph Convolutional Network / Distributed Graph Neural Network
+* Machine Learning / Deep Learning / Graph Convolutional Network / Graph Sampling / Distributed Graph Neural Network
+### Study Interests
+* Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ### Skills
 #### Programming Languages
 Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
