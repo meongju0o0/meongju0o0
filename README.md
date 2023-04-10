@@ -19,7 +19,7 @@
 * Juyeong Shin, Youngkoo Lee. (2023). [Graph Data Augmentation for Subgraph Sampling Based GCN](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
 ### Awards and Honors
 * Top Award in Undergraduate Paper Contest
- * Korea Software Congress, 2022
+  * Korea Software Congress, 2022
 ### Research Interests
 * Machine Learning / Deep Learning / Graph Convolutional Network / Graph Sampling / Distributed Graph Neural Network
 ### Study Interests
