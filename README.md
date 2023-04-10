@@ -25,6 +25,7 @@
 >  * Gumi High School, 2018
 > * Gold Statue in club presentation contest
 >  * Gumi High School, 2018
+
 > During University Years
 > * Top Award in Undergraduate Paper Contest
 >  * Korea Software Congress, 2022
