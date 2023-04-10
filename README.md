@@ -18,16 +18,16 @@
 * Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
 * Juyeong Shin, Youngkoo Lee. (2023). [Graph Data Augmentation for Subgraph Sampling Based GCN](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
 ### Awards and Honors
-> After 2016
- * Bronze Statue in mathematics competition
-  * Gumi High School, 2017
- * Bronze Statue in science competition
-  * Gumi High School, 2018
- * Gold Statue in club presentation contest
-  * Gumi High School, 2018
-> After 2019
- * Top Award in Undergraduate Paper Contest
-  * Korea Software Congress, 2022
+> During High School Years
+> * Bronze Statue in mathematics competition
+>  * Gumi High School, 2017
+> * Bronze Statue in science competition
+>  * Gumi High School, 2018
+> * Gold Statue in club presentation contest
+>  * Gumi High School, 2018
+> During University Years
+> * Top Award in Undergraduate Paper Contest
+>  * Korea Software Congress, 2022
 ### Research Interests
 * Machine Learning / Deep Learning / Graph Convolutional Network / Graph Sampling / Distributed Graph Neural Network
 ### Study Interests
