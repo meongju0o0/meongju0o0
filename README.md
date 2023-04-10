@@ -29,7 +29,7 @@
 Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
 #### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
-#### FrameWorks
+#### Frameworks
 Docker, ElasticSearch
 <!---
 majorWallet/majorWallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
