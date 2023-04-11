@@ -6,9 +6,9 @@
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Diploma, 2019.03--
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03--2019.02
 ## Work Experience
-* 2022.09--2022.12: T.G.WinG Machine Learning Study, Lecturer
-* 2022.06--2022.07: Samsung SDS Machine Learning Lecture, Production of Practice Materials
-* 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, undergraduate student
+* 2022.09--2022.12: T.G.WinG Machine Learning Study, **Lecturer**
+* 2022.06--2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
+* 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Student**
 ## Projects
 * Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021--2024
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
