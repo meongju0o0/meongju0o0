@@ -7,6 +7,7 @@
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03--2019.02
 ## Work Experience
 * 2022.09--2022.12: T.G.WinG Machine Learning Study, Lecturer
+* 2022.06--2022.07: Samsung Machine Learning Lecture, Production of Practice Materials (Data Preprocessing, Feature Engineering, kNN) 
 * 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, undergraduate student
 * 2020.08--2021.11: Republic of Korea Army 22nd Division Infantry (Machine Gunner)
 ## Projects
