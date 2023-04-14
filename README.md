@@ -8,7 +8,7 @@
 ## Work Experience
 * 2022.09--2022.12: T.G.WinG Machine Learning Study, **Lecturer**
 * 2022.06--2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
-* 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Student**
+* 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Research Student**
 ## Projects
 * Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021--2024
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
