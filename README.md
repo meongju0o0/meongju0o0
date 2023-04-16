@@ -14,7 +14,7 @@
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
   * Role: Undergraduate Research Student (2022) & Development of Graph Sampling Techniques
 ## Publications
-* Juyeong Shin, Youngkoo Lee. (2023). [Efficient Graph Data Augmentation Technique using Subgraph Sampling Based GCN](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
+* Juyeong Shin, Youngkoo Lee. (2023). [Graph Data Augmentation using Subgraph Sampling Based GCN](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
 * Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Technique using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
 * Kijin Kwon, Juyeong Shin, Youngkoo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618#). Journal of Korea Computer Congress, Pages 1223 - 1225
 ## Awards and Honors
