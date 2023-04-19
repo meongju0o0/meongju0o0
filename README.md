@@ -12,7 +12,7 @@
 ## Projects
 * Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021--2024
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
-  * Role: Undergraduate Research Student (2022--2023) & Development of Graph Sampling Techniques
+  * Role: Undergraduate Research Student (2022--2024) & Development of Graph Sampling Techniques
 ## Publications
 * Juyeong Shin, Youngkoo Lee. (2023). [Subgraph Sampling Based GCN using Graph Data Augmentation](). Journal of Korea Computer Congress, Scheduled to submit the paper, Pages -
 * Juyeong Shin, Youngkoo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Technique using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
