@@ -14,7 +14,7 @@
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
   * Role: Undergraduate Research Student (2022--2024)
     * Investigate existing studies for large graph integration
-    * Supports large greaph learning engine design
+    * Supports large graph learning engine design
     * Development of graph sampling techniques
     * Development of graph data augmentation techniques
 ## Publications
