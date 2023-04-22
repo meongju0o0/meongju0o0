@@ -1,4 +1,4 @@
-# Juyeong Shin, Bachelor undergraduate
+# Juyeong Shin, Bachelor Candidate
 * Software Engineer, Data & Knowledge Engineering Labortory, DKE Lab.
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 * Tel: +82 10-9809-9551
