@@ -30,11 +30,13 @@
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Skills
 ### Programming Languages
-Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
+Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT, Markdown
+### Tools
+Git, Github, Anaconda, Jupyter
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
-Docker, ElasticSearch
+Docker, Kubernetes, ElasticSearch
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
