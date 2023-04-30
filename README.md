@@ -37,7 +37,7 @@ Git, Github, Anaconda, Jupyter
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
-Docker, Kubernetes, ElasticSearch, neo4j
+Docker, Kubernetes, ElasticSearch, Neo4j
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
