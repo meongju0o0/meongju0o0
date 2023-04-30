@@ -25,7 +25,7 @@
 * Top Award in Undergraduate Paper Contest
   * Korea Software Congress, 2022
 ## Research Interests
-* Machine Learning / Deep Learning / Graph Convolutional Network / Graph Sampling / Distributed Graph Neural Network
+* Machine Learning / Deep Learning / Graph Convolutional Network / Distributed Training / CUDA acceleration
 ## Study Interests
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Skills
@@ -36,7 +36,7 @@ Git, Github, Anaconda, Jupyter
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
-Docker, Kubernetes, ElasticSearch
+Docker, Kubernetes, ElasticSearch, neo4j
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
