@@ -4,6 +4,7 @@
 * Tel: +82 10-9809-9551
 ## Education
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Diploma, 2019.03--2026.02
+  * GPA: 3.7 / 4.3
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03--2019.02
 ## Work Experience
 * 2022.09--2022.12: T.G.WinG Machine Learning Study, **Lecturer**
