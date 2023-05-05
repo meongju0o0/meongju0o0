@@ -32,8 +32,6 @@
 ## Skills
 ### Programming Languages
 Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT, MarkDown
-### Tools
-Git, Github, Anaconda, Jupyter
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
