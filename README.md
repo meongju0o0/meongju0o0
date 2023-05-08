@@ -31,11 +31,11 @@
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Skills
 ### Programming Languages
-Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT, MarkDown
+Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
-Docker, Kubernetes, ElasticSearch, Neo4j
+Firebase, ElasticSearch, Neo4j, Docker, Kubernetes
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
