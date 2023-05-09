@@ -31,7 +31,7 @@
 * Top Award in Undergraduate Paper Contest
   * Korea Software Congress, 2022
 ## Research Interests
-* Machine Learning / Deep Learning / Graph Convolutional Network / Distributed Training / CUDA acceleration
+* Machine Learning / Deep Learning / Graph Convolutional Network / Graph Data Augmentation / Distributed Training / CUDA acceleration
 ## Study Interests
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Skills
