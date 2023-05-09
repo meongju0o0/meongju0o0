@@ -16,7 +16,6 @@
   * Role: Undergraduate Research Student (2022--2024)
     * Investigate existing studies for large graph integration
     * Supports large graph learning engine design
-    * Development of graph sampling techniques
     * Development of graph data augmentation techniques
 * Toy Projects
   * Gaussian Distribution Calculator, 2017
