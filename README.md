@@ -31,7 +31,7 @@
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Skills
 ### Programming Languages
-Bash, C, C++, JAVA, Python, HTML, CSS, JAVASCRIPT
+Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
