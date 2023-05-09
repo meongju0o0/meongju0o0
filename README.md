@@ -20,7 +20,7 @@
     * Development of graph data augmentation techniques
 * Toy Projects
   * Gaussian Distribution Calculator, 2017
-  * IoT Doorlock, 2017
+  * IoT Doorlock, 2017 
   * IoT Doorlock with Elevator, 2018
   * Vigilante Service Table, 2021
   * Jekyll Minimal Mistakes blog Customizing, 2022--
