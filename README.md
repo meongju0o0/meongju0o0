@@ -22,9 +22,9 @@
     * C, Arduino 
   * IoT Doorlock with Elevator, 2018
     * C, Arduino 
-  * Jekyll Minimal Mistakes blog Customizing, 2022--
+  * Jekyll Minimal Mistakes Blog Customizing, 2022--
     * HTML, CSS, JavaScript, Firebase, GitHub
-  * Distributed GraphSAINT using MicroService, 2023
+  * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, Kubernetes, Python, PyTorch, DGL
 ## Publications
 * Juyeong Shin, Hyeonwoo Park, Young-Koo Lee. (2023). [Subgraph Sampling based GCN using Graph Data Augmentation](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages -
