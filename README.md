@@ -43,7 +43,7 @@ Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
 ### Libraries
 pandas, numpy, scipy, matplotlib, scikit-learn, TensorFlow, PyTorch, DGL
 ### Frameworks
-Firebase, ElasticSearch, Neo4j, Docker, Kubernetes
+Firebase, ElasticSearch, Neo4j, Docker, K8s
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
