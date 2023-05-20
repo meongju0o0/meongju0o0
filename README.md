@@ -27,6 +27,8 @@
   * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
 * Tiny Projects
+  * Vigilante Service Table, Apr. 2021
+    * C++, iostream, fstream, algorithm, vector
   * Find the one who didn't follow you (for github), Mar. 2023
     * Python, requests, bs4, html5lib
 ## Publications
