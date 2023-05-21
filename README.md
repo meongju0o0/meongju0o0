@@ -54,5 +54,5 @@ Windows, Ubuntu, CentOS
 <!---
 majorWallet/majorWallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Juyeong Shin is special person. also you too.
+Juyeong Shin is a special person, as are you too.
 --->
