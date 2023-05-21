@@ -52,7 +52,7 @@ ElasticSearch, Neo4j, Docker, K8s, Firebase
 ### Operating System
 Windows, Ubuntu, CentOS
 <!---
-majorWallet/majorWallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Juyeong Shin is a special person, as are you too.
 --->
