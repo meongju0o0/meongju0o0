@@ -43,7 +43,7 @@
 ## Study Interests
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Query Processing / Distributed Data Processing
 ## Interested OpenSources
-* Docker / K8s / mariaDB / mongoDB / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus
+* Docker / K8s / MariaDB / MongoDB / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus
 ## Skills
 ### Programming Languages
 Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
