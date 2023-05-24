@@ -23,7 +23,7 @@
   * IoT Doorlock with Elevator, 2018
     * C, Arduino, Serial, SPI, RFID, BlueTooth
   * Jekyll Minimal Mistakes Blog Customizing, 2022--
-    * HTML, CSS, JavaScript, Ruby, Firebase, GitHub
+    * Ruby, HTML, CSS, JavaScript, Firebase, GitHub
   * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
 * Tiny Projects
