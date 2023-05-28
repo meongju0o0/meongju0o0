@@ -18,8 +18,6 @@
     * Supports large graph learning engine design
     * Development of graph data augmentation techniques
 * Toy Projects
-  * IoT Doorlock, 2017
-    * C, Arduino, Serial, SPI, RFID, BlueTooth
   * IoT Doorlock with Elevator, 2018
     * C, Arduino, Serial, SPI, RFID, BlueTooth
   * Jekyll Minimal Mistakes Blog Customizing, 2022--
