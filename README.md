@@ -3,24 +3,24 @@
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 * Tel: +82 10-9809-9551
 ## Education
-* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03--2026.02
+* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03-2026.02
   * GPA: 3.7 / 4.3
-* Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03--2019.02
+* Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03-2019.02
 ## Work Experience
-* 2022.09--2022.12: T.G.WinG Machine Learning Study, **Lecturer**
-* 2022.06--2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
-* 2022.04--: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Research Student**
+* 2022.09-2022.12: T.G.WinG Machine Learning Study, **Lecturer**
+* 2022.06-2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
+* 2022.04-: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Research Student**
 ## Projects
-* Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021--2024
+* Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021-2024
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
-  * Role: Undergraduate Research Student (2022--2024)
+  * Role: Undergraduate Research Student (2022-2024)
     * Investigate existing studies for large graph integration
     * Supports large graph learning engine design
     * Development of graph data augmentation techniques
 * Toy Projects
   * IoT Doorlock with Elevator, 2018
     * C, Arduino, Serial, SPI, RFID, BlueTooth
-  * Jekyll Minimal Mistakes Blog Customizing, 2022--
+  * Jekyll Minimal Mistakes Blog Customizing, 2022-
     * Ruby, HTML, CSS, JavaScript, Firebase, GitHub
   * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
