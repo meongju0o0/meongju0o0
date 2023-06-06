@@ -53,7 +53,7 @@ ElasticSearch, Neo4j, Docker, K8s, Firebase
 Windows, Ubuntu, CentOS
 
 ![meongju0o0's GitHub stats](https://github-readme-stats.vercel.app/api?username=meongju0o0&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongju0o0&layout=donut&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongju0o0&layout=compact&theme=default)
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
