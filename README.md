@@ -22,6 +22,8 @@
     * C, Arduino, Serial, SPI, RFID, BlueTooth
   * Jekyll Minimal Mistakes Blog Customizing, 2022-
     * Ruby, HTML, CSS, JavaScript, Firebase, GitHub
+  * Life Balancing Application for Android, 2023
+    * Kotlin, XML, android, androidx
   * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
 * Tiny Projects
