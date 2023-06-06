@@ -1,7 +1,6 @@
 # Juyeong Shin, Bachelor Candidate
 * Software Engineer, Data & Knowledge Engineering Labortory, DKE Lab.
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
-* Tel: +82 10-9809-9551
 ## Education
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03-2026.02
   * GPA: 3.7 / 4.3
