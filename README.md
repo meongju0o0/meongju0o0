@@ -11,13 +11,13 @@
 * 2022.06-2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
 * 2022.04-: Data & Knowledge Engineering Labortory, Kyung Hee University, Republic of Korea, **Undergraduate Research Student**
 ## Projects
-* Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs, 2021-2024
+* **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021-2024
   * Supervision: Institute of Information & Communications Technology Planning & Evaluation
   * Role: Undergraduate Research Student (2022-2024)
     * Investigate existing studies for large graph integration
     * Supports large graph learning engine design
     * Development of graph data augmentation techniques
-* Toy Projects
+* **Toy Projects**
   * IoT Doorlock with Elevator, 2018
     * C, Arduino, Serial, SPI, RFID, BlueTooth
   * Jekyll Minimal Mistakes Blog Customizing, 2022-
@@ -26,12 +26,12 @@
     * Kotlin, XML, android, androidx, Firebase
   * Distributed GraphSAINT using Microservice, 2023
     * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
-* Tiny Projects
+* **Tiny Projects**
   * Vigilante Service Table, Apr. 2021
     * C++, iostream, fstream, algorithm, vector
   * Find the one who didn't follow you (for github), Mar. 2023
     * Python, requests, bs4, html5lib
-* Planned Projects
+* **Planned Projects**
   * My own NAS Server using Raspberry Pi
     * Raspberry Pi, SSD, Router, Alpine Linux
 ## Publications
