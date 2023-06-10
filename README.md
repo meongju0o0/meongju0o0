@@ -31,9 +31,11 @@
     * C++, iostream, fstream, algorithm, vector
   * Find the one who didn't follow you (for github), Mar. 2023
     * Python, requests, bs4, html5lib
+  * How many loves me, Jun. 2023
+    * HTML, CSS, JavaScript
 * **Planned Projects**
   * My own NAS Server using Raspberry Pi, 2023
-    * Raspberry Pi, SSD, Router, Alpine Linux, Samba
+    * Raspberry Pi, HDD, DAS, Router, Alpine Linux, Samba
 ## Publications
 * Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages -
 * Juyeong Shin, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Technique using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
