@@ -33,7 +33,7 @@
     * Python, requests, bs4, html5lib
 * **Planned Projects**
   * My own NAS Server using Raspberry Pi, 2023
-    * Raspberry Pi, SSD, Router, Alpine Linux, Samda
+    * Raspberry Pi, SSD, Router, Alpine Linux, Samba
 ## Publications
 * Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages -
 * Juyeong Shin, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Technique using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
@@ -64,4 +64,5 @@ Windows, Ubuntu, CentOS
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Juyeong Shin is a special person, as are you too.
+I'm stupid. and I have learn.
 --->
