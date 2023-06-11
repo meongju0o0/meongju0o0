@@ -32,7 +32,7 @@
   * Find the one who didn't follow you (for github), Mar. 2023
     * Python, requests, bs4, html5lib
   * How many loves me, Jun. 2023
-    * HTML, CSS, JavaScript
+    * HTML, CSS, JavaScript, Firebase
 * **Planned Projects**
   * My own NAS Server using Raspberry Pi, 2023
     * Raspberry Pi, HDD, DAS, Router, Alpine Linux, Samba
