@@ -22,8 +22,8 @@
     * C, Arduino, Serial, SPI, RFID, BlueTooth
   * Jekyll Minimal Mistakes Blog Customizing, 2022-
     * Ruby, HTML, CSS, JavaScript, Firebase, GitHub
-  * Distributed GraphSAINT using Microservice, 2023
-    * Ubuntu(WSL), FTP, Docker, K8s, Python, PyTorch, DGL
+  * Distributed GraphSAGE Training using DistDGL and Microservice, 2023
+    * Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 * **Tiny Projects**
   * Vigilante Service Table, Apr. 2021
     * C++, iostream, fstream, algorithm, vector
