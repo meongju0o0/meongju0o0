@@ -35,7 +35,6 @@
   * My own NAS Server using Raspberry Pi, 2023
     * Raspberry Pi, HDD, DAS, Router, Alpine Linux, Samba
 ## Publications
-- - -
 * Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages - 
   * Implementation: [Automatic-Hyper-Parameter-Tuning-Method-for-MH-Aug]()
 - - -
