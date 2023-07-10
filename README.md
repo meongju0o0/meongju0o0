@@ -35,7 +35,7 @@
   * My own Linux Server, 2023
     * ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
     * NAS Server Container
-    * SSH Server Container (Ubuntu on Ubuntu)
+    * SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
     * Hosting Server Container
 ## Publications
 * Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages - 
