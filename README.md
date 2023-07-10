@@ -3,20 +3,20 @@
 * Software Engineer, Data & Knowledge Engineering Labortory, DKE Lab.
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 ## Education
-* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03 -- 2026.02
+* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03 - 2026.02
     - GPA: 3.7 / 4.3
-* Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 -- 2019.02
+* Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 - 2019.02
 
 ## Work Experience
-* 2022.09 -- 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
-* 2022.06 -- 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
-* 2022.04 --: Data & Knowledge Engineering Labortory, Kyung Hee University, **Undergraduate Research Student**
+* 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
+* 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
+* 2022.04 -: Data & Knowledge Engineering Labortory, Kyung Hee University, **Undergraduate Research Student**
 
 ## Projects
 ### Main Projects
-**Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 -- 2024
+**Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
 - Supervision: Institute of Information & Communications Technology Planning & Evaluation
-- Role: Undergraduate Research Student (2022 -- 2024)
+- Role: Undergraduate Research Student (2022 - 2024)
     - Investigate existing studies for large graph integration
     - Supports large graph learning engine design
     - Development of graph data augmentation techniques
@@ -27,7 +27,7 @@
 **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
 - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 
-**Jekyll Minimal Mistakes Blog Customizing**, 2022 --
+**Jekyll Minimal Mistakes Blog Customizing**, 2022 -
 - Ruby, HTML, CSS, JavaScript, Firebase, GitHub
 
 **IoT Doorlock with Elevator**, 2018
@@ -59,17 +59,17 @@
 - - -
 
 ## Publications
-* Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages --
+* Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages -
     * Implementation: [Automatic-Hyper-Parameter-Tuning-Method-for-MH-Aug]()
 
 ---
 
-* Juyeong Shin, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 -- 1310
+* Juyeong Shin, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
     * Implementation: [GraphSAINT-NRW-ERW-Subgraph-Sampling-Technique-using-Random-Walk-Reflecting-Node-Degree](https://github.com/meongju0o0/GraphSAINT-NRW-ERW-Subgraph-Sampling-Technique-using-Random-Walk-Reflecting-Node-Degree)
 
 ---
 
-* Kijin Kwon, Juyeong Shin, Young-Koo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618). Journal of Korea Computer Congress, Pages 1223 -- 1225
+* Kijin Kwon, Juyeong Shin, Young-Koo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618). Journal of Korea Computer Congress, Pages 1223 - 1225
     * Implementation: [Efficient-Sampling-Techniques-for-Embedding-Large-Graphs](https://github.com/meongju0o0/Efficient-Sampling-Techniques-for-Embedding-Large-Graphs)
 
 ---
