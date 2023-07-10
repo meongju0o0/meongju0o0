@@ -14,8 +14,6 @@
 
 ## Projects
 ### Main Projects
-<br/>
-
 **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 -- 2024
 - Supervision: Institute of Information & Communications Technology Planning & Evaluation
 - Role: Undergraduate Research Student (2022 -- 2024)
@@ -26,8 +24,6 @@
 - - -
 
 ### Toy Projects
-<br/>
-
 **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
 - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 
@@ -40,8 +36,6 @@
 - - -
 
 ### Tiny Projects
-<br/>
-
 **How many loves me**, Jun. 2023
 - HTML, CSS, JavaScript
 
@@ -54,7 +48,6 @@
 - - -
 
 ### Planned Projects
-<br/>
 **My own Linux Server**, 2023
 - ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
     - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
@@ -110,6 +103,6 @@ Windows, Ubuntu, CentOS
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Juyeong Shin is a special person, as are you too.
+I'm special person, as are you too.
 I'm stupid. and I have learn.
 --->
