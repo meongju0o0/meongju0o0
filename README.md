@@ -18,7 +18,7 @@
     * Supports large graph learning engine design
     * Development of graph data augmentation techniques
 * **Toy Projects**
-  * Distributed GraphSAGE Training using DistDGL and Microservice, 2023
+  * Distributed GraphSAGE Training using DistDGL and K8s, 2023
     * Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
   * Jekyll Minimal Mistakes Blog Customizing, 2022-
     * Ruby, HTML, CSS, JavaScript, Firebase, GitHub
