@@ -60,11 +60,6 @@
 - - -
 
 ## Publications
-* Juyeong Shin, Young-Koo Lee. (2023). [Automatic Hyper Parameter Tuning Method for MH-Aug](). Journal of Korea Software Congress, Scheduled to submit the paper, Pages -
-    * Implementation: [Automatic-Hyper-Parameter-Tuning-Method-for-MH-Aug]()
-
----
-
 * Juyeong Shin, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
     * Implementation: [GraphSAINT-NRW-ERW-Subgraph-Sampling-Technique-using-Random-Walk-Reflecting-Node-Degree](https://github.com/meongju0o0/GraphSAINT-NRW-ERW-Subgraph-Sampling-Technique-using-Random-Walk-Reflecting-Node-Degree)
 
