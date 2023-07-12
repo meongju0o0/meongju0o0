@@ -15,47 +15,47 @@
 
 ## Projects
 ### Main Projects
-**Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
-- Supervision: Institute of Information & Communications Technology Planning & Evaluation
-- Role: Undergraduate Research Student (2022 - 2024)
-    - Investigate existing studies for large graph integration
-    - Supports large graph learning engine design
-    - Development of graph data augmentation techniques
+- **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
+    - Supervision: Institute of Information & Communications Technology Planning & Evaluation
+    - Role: Undergraduate Research Student (2022 - 2024)
+        - Investigate existing studies for large graph integration
+        - Supports large graph learning engine design
+        - Development of graph data augmentation techniques
 
 - - -
 
 ### Toy Projects
-**Distributed GraphSAGE Training using DistDGL and K8s**, 2023
-- Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
+- **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
+    - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 
-**Jekyll Minimal Mistakes Blog Customizing**, 2022 -
-- Ruby, HTML, CSS, JavaScript, Firebase, GitHub
+- **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
+    - Ruby, HTML, CSS, JavaScript, Firebase, GitHub
 
-**IoT Doorlock with Elevator**, 2018
-- C, Arduino, Serial, SPI, RFID, BlueTooth
+- **IoT Doorlock with Elevator**, 2018
+    - C, Arduino, Serial, SPI, RFID, BlueTooth
 
 - - -
 
 ### Tiny Projects
-**How many loves me**, Jun. 2023
-- HTML, CSS, JavaScript
+- **How many loves me**, Jun. 2023
+    - HTML, CSS, JavaScript
 
-**Find the one who didn't follow you (for github)**, May. 2023
-- Python, requests, bs4, html5lib
+- **Find the one who didn't follow you (for github)**, May. 2023
+    - Python, requests, bs4, html5lib
 
-**Vigilante Service Table**, Apr. 2021
-- C++, iostream, fstream, algorithm, vector
+- **Vigilante Service Table**, Apr. 2021
+    - C++, iostream, fstream, algorithm, vector
 
 - - -
 
 ### Planned Projects
-**My own Linux Server**, 2023
-- ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
-    - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
-    - NAS Server Container
-    - Hosting Server Container
-    - Database Server Container
-    - Storage Server Container
+- **My own Linux Server**, 2023
+    - ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
+        - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
+        - NAS Server Container
+        - Hosting Server Container
+        - Database Server Container
+        - Storage Server Container
 
 - - -
 
