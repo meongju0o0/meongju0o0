@@ -99,5 +99,5 @@ Windows, Ubuntu, CentOS
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-I love myself to despise myself.
+I hate myself who can't despise myself
 --->
