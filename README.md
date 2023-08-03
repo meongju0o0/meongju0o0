@@ -49,7 +49,7 @@
 - - -
 
 ### Planned Projects
-- **My own Linux Server**, 2023
+- **My own Linux Server**, 2024
     - ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
         - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
         - NAS Server Container
