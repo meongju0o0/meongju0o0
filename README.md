@@ -55,7 +55,7 @@
 - - -
 
 ### Planned Projects
-- **My own Linux Server**, 2023
+- **My own Linux Server**, 2024
     - ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
         - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
         - NAS Server Container
@@ -87,11 +87,11 @@
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / CUDA Acceleration / Query Processing
 
 ## Interested OpenSources
-* Docker / K8s / PostgreSQL / MongoDB / Redis / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus
+* Docker / K8s / PostgreSQL / Redis / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus
 
 ## Skills
 ### Programming Languages
-Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
+Batch, Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
 
 ### Libraries
 numpy, scipy, matplotlib, seaborn, scikit-learn, TensorFlow, PyTorch, DGL
