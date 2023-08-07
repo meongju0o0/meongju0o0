@@ -40,7 +40,7 @@
 - - -
 
 ### Tiny Projects
-- **Git clone all**, Aug. 2023
+- **Git Clone All**, Aug. 2023
     - cmd, sh, jq, curl, git
 
 - **How many loves me**, Jun. 2023
