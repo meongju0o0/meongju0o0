@@ -25,6 +25,9 @@
 - - -
 
 ### Toy Projects
+- **Life Balancing Application for Android**, 2023
+    - kotlin, android studio
+
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 
@@ -37,6 +40,9 @@
 - - -
 
 ### Tiny Projects
+- **Git clone all**, Aug. 2023
+    - cmd, sh, jq, curl, git
+
 - **How many loves me**, Jun. 2023
     - HTML, CSS, JavaScript
 
