@@ -61,13 +61,14 @@
 - - -
 * Kijin Kwon, Juyeong Shin, Young-Koo Lee. (2022). [Efficient Sampling Techniques for Embedding Large Graphs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113618). Journal of Korea Computer Congress, Pages 1223 - 1225
     * Implementation: [Efficient-Sampling-Techniques-for-Embedding-Large-Graphs](https://github.com/meongju0o0/Efficient-Sampling-Techniques-for-Embedding-Large-Graphs)
+- - -
 
 ## Awards and Honors
 * Top Award in Undergraduate Paper Contest
     * Korea Software Congress, 2022
 
 ## Research Interests
-* Machine Learning / Deep Learning / Graph Convolutional Network / Graph Data Augmentation / Distributed Training
+* Graph Convolutional Network / Graph Data Augmentation / Distributed Training
 
 ## Study Interests
 * Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / CUDA Acceleration / Query Processing
