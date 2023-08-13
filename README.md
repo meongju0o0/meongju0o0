@@ -21,12 +21,16 @@
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
         - Development of graph data augmentation techniques
+- **Food Social Network Service**, 2023 - 
+    - Role: Developer (2023 - )
+- **Malicious Complaint Detecter**, 2023 - 
+    - Role: ML Developer (2023 - )
 
 - - -
 
 ### Toy Projects
 - **Life Balancing Application for Android**, 2023
-    - kotlin, android studio
+    - Kotlin, Android Studio
 
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
@@ -105,5 +109,4 @@ Windows, Ubuntu, CentOS
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-I hate myself who can't despise myself
 --->
