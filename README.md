@@ -26,8 +26,6 @@
 - **Malicious Complaint Detecter**, 2023 - 
     - Role: ML Developer (2023 - )
 
-- - -
-
 ### Toy Projects
 - **Life Balancing Application for Android**, 2023
     - Kotlin, Android Studio
@@ -38,8 +36,6 @@
 - **IoT Doorlock with Elevator**, 2018
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
-- - -
-
 ### Tiny Projects
 - **Git Clone All**, Aug. 2023
     - cmd, sh, jq, curl, git
@@ -49,8 +45,6 @@
     - Python, requests, bs4, html5lib
 - **Vigilante Service Table**, Apr. 2021
     - C++, iostream, fstream, algorithm, vector
-
-- - -
 
 ### Planned Projects
 - **My own Linux Server**, 2024
