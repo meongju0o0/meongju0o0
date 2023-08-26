@@ -21,7 +21,7 @@
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
         - Development of graph data augmentation techniques
-- **Secret Social Network Service**, 2023 - 
+- **Secret Diary Social Network Service**, 2023 - 
     - Role: FE Developer (2023 - )
         - Develop Android Application
         - Develop Web Application
