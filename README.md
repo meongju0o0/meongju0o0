@@ -72,10 +72,10 @@
 * Graph Convolutional Network / Graph Data Augmentation / Distributed Training
 
 ## Study Interests
-* Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / CUDA Acceleration / Query Processing
+* Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / Web Application Service
 
 ## Interested OpenSources
-* Docker / K8s / PostgreSQL / Redis / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus
+* Docker / K8s / PostgreSQL / Redis / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus / React.js
 
 ## Skills
 ### Programming Languages
