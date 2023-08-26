@@ -22,9 +22,9 @@
         - Supports large graph learning engine design
         - Development of graph data augmentation techniques
 - **Food Social Network Service**, 2023 - 
-    - Role: Developer (2023 - )
-- **Malicious Complaint Detecter**, 2023 - 
-    - Role: ML Developer (2023 - )
+    - Role: FE Developer (2023 - )
+        - Develop Android Application
+        - Develop Web Application
 
 ### Toy Projects
 - **Life Balancing Application for Android**, 2023
