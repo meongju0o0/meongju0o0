@@ -20,7 +20,7 @@
     - Role: Undergraduate Research Student (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
-        - Development of graph data augmentation techniques with distrubted training
+        - Development of graph data augmentation techniques with distributed training
 - **Secret Diary Social Network Service**, 2023 - 
     - Member: Uichan Seo, Juyeong Shin
     - Role: FE Developer (2023 - )
