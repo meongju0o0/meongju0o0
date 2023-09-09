@@ -11,7 +11,7 @@
 ## Work Experience
 * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
 * 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
-* 2022.04 - : Data & Knowledge Engineering Labortory, Kyung Hee University, **Undergraduate Research Student**
+* 2022.04 - : Data & Knowledge Engineering Labortory, Kyung Hee University, **Researcher**
 
 ## Projects
 ### Main Projects
@@ -20,11 +20,12 @@
     - Role: Undergraduate Research Student (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
-        - Development of graph data augmentation techniques
-- **Food Social Network Service**, 2023 - 
-    - Role: Developer (2023 - )
-- **Malicious Complaint Detecter**, 2023 - 
-    - Role: ML Developer (2023 - )
+        - Development of graph data augmentation techniques with distributed training
+- **Secret Social Network Service**, 2023 - 
+    - Member: Uichan Seo, Juyeong Shin
+    - Role: FE Developer (2023 - )
+        - Develop Android Application
+        - Develop Web Frontend
 
 ### Toy Projects
 - **Life Balancing Application for Android**, 2023
@@ -37,8 +38,6 @@
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
 ### Tiny Projects
-- **MBTI Clustering**, Sep. 2023
-    - Python, scikit-learn, matplotlib, HTML, CSS, JavaScript, Firebase
 - **Git Clone All**, Aug. 2023
     - cmd, sh, jq, curl, git
 - **How many loves me**, Jun. 2023
@@ -73,7 +72,7 @@
 * Graph Convolutional Network / Graph Data Augmentation / Distributed Training
 
 ## Study Interests
-* Linear Algebra / Deep Learning / Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / CUDA Acceleration / Query Processing
+* Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / Web Application Service
 
 ## Skills
 ### Programming Languages
