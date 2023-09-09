@@ -24,7 +24,7 @@
 - **Secret Social Network Service**, 2023 - 
     - Member: Uichan Seo, Juyeong Shin
     - Role: FE Developer (2023 - )
-        - Develop Android Application
+        - Develop Android, iOS Application (Dart, Flutter)
         - Develop Web Frontend
 
 ### Toy Projects
