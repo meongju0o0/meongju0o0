@@ -23,7 +23,8 @@
         - Development of graph data augmentation techniques with distributed training
 - **Secret Social Network Service**, 2023 - 
     - Member: Uichan Seo, Juyeong Shin
-    - Role: FE Developer (2023 - )
+    - Role: BE, FE Developer (2023 - )
+        - Develop Backend Server
         - Develop Android, iOS Application (Dart, Flutter)
         - Develop Web Frontend
 
@@ -79,13 +80,13 @@
 Batch, Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
 
 ### Libraries
-numpy, scipy, matplotlib, seaborn, scikit-learn, TensorFlow, PyTorch, DGL
+numpy, scipy, matplotlib, seaborn, scikit-learn, PyTorch, DGL
 
 ### Frameworks
 ElasticSearch, Neo4j, Docker, K8s, Firebase
 
 ### Operating System
-Windows, Ubuntu, CentOS
+Windows, MacOS, Ubuntu, CentOS
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
