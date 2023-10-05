@@ -77,16 +77,16 @@
 
 ## Skills
 ### Programming Languages
-Batch, Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
+Batch, Bash, C, **C++**, JAVA, **Python**, HTML, CSS, JavaScript
 
 ### Libraries
-numpy, scipy, matplotlib, seaborn, scikit-learn, PyTorch, DGL
+numpy, scipy, matplotlib, seaborn, scikit-learn, **PyTorch**, **DGL**
 
 ### Frameworks
 ElasticSearch, Neo4j, Docker, K8s, Firebase
 
 ### Operating System
-Windows, MacOS, Ubuntu, CentOS
+Windows, MacOS, **Ubuntu**, CentOS
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
