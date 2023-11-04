@@ -23,8 +23,9 @@
         - Development of graph data augmentation techniques with distributed training
 - **Secret Social Network Service**, 2023 - 
     - Member: Uichan Seo, Juyeong Shin
-    - Role: FE Developer (2023 - )
-        - Develop Android Application
+    - Role: BE, FE Developer (2023 - )
+        - Develop Backend Server
+        - Develop Android, iOS Application (Dart, Flutter)
         - Develop Web Frontend
 
 ### Toy Projects
@@ -78,21 +79,18 @@
 ## Study Interests
 * Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / Web Application Service
 
-## Interested OpenSources
-* Docker / K8s / PostgreSQL / Redis / ElasticSearch / Neo4j / Spark / Kafka / Hadoop / Prometheus / React.js
-
 ## Skills
 ### Programming Languages
-Batch, Bash, C, C++, JAVA, Python, HTML, CSS, JavaScript
+Batch, Bash, C, **C++**, JAVA, **Python**, HTML, CSS, JavaScript
 
 ### Libraries
-numpy, scipy, matplotlib, seaborn, scikit-learn, TensorFlow, PyTorch, DGL
+numpy, scipy, matplotlib, seaborn, scikit-learn, **PyTorch**, **DGL**
 
 ### Frameworks
 ElasticSearch, Neo4j, Docker, K8s, Firebase
 
 ### Operating System
-Windows, Ubuntu, CentOS
+Windows, MacOS, **Ubuntu**, CentOS
 
 ### Development Tools
 nano editor, **Visual Studio Code**, Visual Studio, **PyCharm**, **Anaconda**
