@@ -48,15 +48,6 @@
 - **Vigilante Service Table**, Apr. 2021
     - C++, iostream, fstream, algorithm, vector
 
-### Planned Projects
-- **My own Linux Server**, 2024
-    - ASUS mini PC, HDD, DAS, Router, Ubuntu Desktop, Docker
-        - SSH Server Container (Ubuntu on Ubuntu for Linux Practice)
-        - NAS Server Container
-        - Hosting Server Container
-        - Database Server Container
-        - Storage Server Container
-
 ## Publications
 * Juyeong Shin, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr). Journal of Korea Software Congress, Pages --
     * Scheduled to be published
