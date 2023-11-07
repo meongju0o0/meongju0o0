@@ -17,7 +17,7 @@
 ### Main Projects
 - **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
     - Supervision: Institute of Information & Communications Technology Planning & Evaluation
-    - Role: Undergraduate Research Student (2022 - 2024)
+    - Role: Research Intern (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
 - **Secret Social Network Service**, 2023 - 
