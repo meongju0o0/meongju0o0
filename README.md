@@ -85,6 +85,28 @@ Windows, MacOS, **Ubuntu**, CentOS
 ### Development Tools
 GNU nano editor, **Visual Studio Code**, Visual Studio, **PyCharm**, **Anaconda**, **Git**
 
+## Participations
+### Conferences
+* 2022 Korea Software Congress
+* 2023 Korea Software Congress
+
+### Volunteer Participations
+* 학습지도 및 행정업무 보조 (2017.08.10)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.01.05)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.01.12)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.01.19)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.01.26)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.08.02)
+    * 새로배움터 지역아동센터
+* 학습지도 및 행정업무 보조 (2018.08.09)
+    * 새로배움터 지역아동센터
+* 집수리 봉사 활동 (2023.11.11)
+    * 경희대학교 중앙동아리 쿠키, 수원시 권선구 일대
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
