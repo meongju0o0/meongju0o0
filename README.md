@@ -70,7 +70,7 @@
 
 ## Skills
 ### Programming Languages
-Batch, Bash, C, **C++**, **Python**, Kotlin, JAVA, HTML, CSS, JavaScript
+cmd, bash, C, **C++**, **Python**, Kotlin, JAVA, HTML, CSS, JavaScript
 
 ### Libraries
 numpy, scipy, matplotlib, seaborn, scikit-learn, **PyTorch**, **DGL**
