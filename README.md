@@ -90,7 +90,6 @@ GNU nano editor, **Visual Studio Code**, Visual Studio, **PyCharm**, **Anaconda*
 * 2022 Korea Software Congress
 
 ### Volunteer
-* 집수리 봉사 활동, 경희대학교 중앙동아리 쿠키, 수원시 권선구 일대 (2023.11.11)
 * 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.08.09)
 * 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.08.02)
 * 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.01.26)
