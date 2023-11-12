@@ -49,7 +49,7 @@
 
 ## Publications
 * **Juyeong Shin**, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr). Journal of Korea Software Congress, Pages -
-    * Implementation: [Distributed-Data-Augmentation-Technique-for-GNN](https://github.com/meongju0o0/Distributed-Data-Augmentation-Technique-for-GNN)
+    * Implementation: [DistMHAug](https://github.com/meongju0o0/DistMHAug)
 ---
 * **Juyeong Shin**, Young-Koo Lee. (2022). [GraphSAINT-NRW, ERW: Subgraph Sampling Techniques using Random Walk Reflecting Node Degree](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224420). Journal of Korea Software Congress, Pages 1308 - 1310
     * Implementation: [GraphSAINT-NRW-ERW](https://github.com/meongju0o0/GraphSAINT-NRW-ERW)
