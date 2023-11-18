@@ -46,6 +46,8 @@
     - Python, requests, bs4, html5lib
 - **Vigilante Service Table**, Apr. 2021
     - C++, iostream, fstream, algorithm, vector
+- **Normal Distribution Calculator**, May. 2017
+    - C, stdio, stdlib
 
 ## Publications
 * **Juyeong Shin**, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr). Journal of Korea Software Congress, Pages -
