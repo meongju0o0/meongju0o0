@@ -5,7 +5,7 @@
 
 ## Education
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03 - 2026.02
-    - GPA: 3.7 / 4.3
+    - GPA: 3.6 / 4.3
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 - 2019.02
 
 ## Work Experience
@@ -46,7 +46,7 @@
     - Python, requests, bs4, html5lib
 - **Vigilante Service Table**, Apr. 2021
     - C++, iostream, fstream, algorithm, vector
-- **Normal Distribution Calculator**, May. 2017
+- **Gaussian Distribution Calculator**, May. 2017
     - C, stdio, stdlib
 
 ## Publications
