@@ -72,7 +72,7 @@ cmd, bash, C, **C++**, **Python**, Kotlin, JAVA, HTML, CSS, JavaScript
 numpy, scipy, matplotlib, seaborn, scikit-learn, **PyTorch**, **DGL**
 
 ### Frameworks
-Node.js, React.js, ElasticSearch, Neo4j, Docker, K8s, Firebase
+React.js, ElasticSearch, Neo4j, Docker, K8s, Firebase
 
 ### Operating System
 Windows, MacOS, **Ubuntu**, CentOS
