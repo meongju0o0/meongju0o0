@@ -85,15 +85,6 @@ GNU nano editor, **Visual Studio Code**, Visual Studio, **PyCharm**, **Anaconda*
 * 2023 Korea Software Congress
 * 2022 Korea Software Congress
 
-### Volunteer
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.08.09)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.08.02)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.01.26)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.01.19)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.01.12)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2018.01.05)
-* 학습지도 및 행정업무 보조, 새로배움터 지역아동센터 (2017.08.10)
-
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
