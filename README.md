@@ -66,7 +66,14 @@
 
 ## Skills
 ### Programming Languages
-cmd, bash, C, **C++**, **Python**, Kotlin, JAVA, HTML, CSS, JavaScript
+- command script
+    - cmd, **bash**
+- low-level language
+    - C, **C++**, JAVA, Kotlin
+- script language
+    - **Python**, JavaScript
+- markup Language
+    - HTML, CSS, SCSS
 
 ### Libraries
 numpy, scipy, matplotlib, seaborn, scikit-learn, **PyTorch**, **DGL**
