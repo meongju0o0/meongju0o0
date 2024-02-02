@@ -55,6 +55,8 @@
 ---
 
 ## Awards and Honors
+* Excellence Award in Undergraduate Paper Contest
+    * Korea Software Congress, 2023
 * Top Award in Undergraduate Paper Contest
     * Korea Software Congress, 2022
 
