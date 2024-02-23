@@ -55,6 +55,8 @@
 ---
 
 ## Awards and Honors
+* Excellence Student Award in Yong-In Study Class
+    * Yong-In Metropolitan City, 2023
 * Excellence Award in Undergraduate Paper Contest
     * Korea Software Congress, 2023
 * Top Award in Undergraduate Paper Contest
