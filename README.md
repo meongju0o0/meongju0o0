@@ -36,7 +36,7 @@
     - batch, sh, jq, curl, git
 - **How many loves me**, Jun. 2023
     - HTML, CSS, JavaScript
-- **Find the one who didn't follow you (for github)**, May. 2023
+- **Find not friend (for github)**, May. 2023
     - Python, requests, bs4, html5lib
 - **Vigilante Service Table**, Apr. 2021
     - C++, iostream, fstream, algorithm, vector
