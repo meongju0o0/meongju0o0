@@ -63,16 +63,15 @@
     * Korea Software Congress, 2022
 
 ## Research Interests
-* Graph Convolutional Network / Graph Data Augmentation / Distributed Training
+* Vector Database / Graph Convolutional Network / Distributed Training
 
 ## Study Interests
-* Computer Vision / Natural Language Processing / Graph Neural Network / Distributed Data Processing / Web Application Service
+* Natural Language Processing / Graph Neural Network / Vector Database / Distributed Data Processing / Web Application Service
 
 ## Participations
 ### Conference
 * 2023 Korea Software Congress
 * 2022 Korea Software Congress
-
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
