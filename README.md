@@ -22,8 +22,8 @@
         - Supports large graph learning engine design
 
 ### Toy Projects
-- **Life Balancing Application for Android**, 2023
-    - Kotlin, Android Studio
+- **Foody Flavor**, 2024
+    - Python, bs4, selenium, PyTorch, PostgreSQL, Hadoop, Spark
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
@@ -31,19 +31,10 @@
 - **IoT Doorlock with Elevator**, 2018
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
-### Just for Fun
-- **Git Clone All**, Aug. 2023
-    - batch, sh, jq, curl, git
-- **How many loves me**, Jun. 2023
-    - HTML, CSS, JavaScript
-- **Find not friend (for github)**, May. 2023
-    - Python, requests, bs4, html5lib
-- **Vigilante Service Table**, Apr. 2021
-    - C++, iostream, fstream, algorithm, vector
-- **Gaussian Distribution Calculator**, May. 2017
-    - C, stdio, stdlib
-
 ## Publications
+* **Juyeong Shin**, Young-Koo Lee. (2024). [Hierarchical Quality Measurement Method for HNSW Index Performance Evaluation in Vector Database](https://www.dbpia.co.kr). Journal of Korea Computer Congress, Pages --
+    * Implementation: [hnsw-graph-distance](https://github.com/meongju0o0/hnsw-graph-distance)
+---
 * **Juyeong Shin**, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705601). Journal of Korea Software Congress, Pages 1800 - 1802
     * Implementation: [DistMHAug](https://github.com/meongju0o0/DistMHAug)
 ---
@@ -63,10 +54,10 @@
     * Korea Software Congress, 2022
 
 ## Research Interests
-* Vector Database / Graph Convolutional Network / Distributed Training
+* Vector Database / Parallel Computing / Distributed Computing
 
 ## Study Interests
-* Natural Language Processing / Graph Neural Network / Vector Database / Distributed Data Processing / Web Application Service
+* Web Application Service / Computer Vision / Natural Language Processing / Graph Convolutional Network
 
 ## Participations
 ### Conference
