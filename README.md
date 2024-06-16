@@ -23,7 +23,7 @@
 
 ### Minor Projects
 - **Domestic Stock Followup Service(Stock Up)**, 2024
-    - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, AWS EC2, AWS RDS
+    - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, Github Flow, AWS EC2, AWS RDS
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
