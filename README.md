@@ -27,7 +27,7 @@
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
-    - Ruby, HTML, CSS, JavaScript, Firebase, GitHub
+    - Ruby, Jekyll, node.js, Firebase, GitHub
 - **IoT Doorlock with Elevator**, 2018
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
