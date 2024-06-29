@@ -14,14 +14,14 @@
 * 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
 
 ## Projects
-### Major Projects
+### Lab Projects
 - **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
     - Supervision: Institute of Information & Communications Technology Planning & Evaluation
     - Role: Research Intern (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
 
-### Minor Projects
+### Toy Projects
 - **Domestic Stock Followup Service(Stock Up)**, 2024
     - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, Github Flow, AWS EC2, AWS RDS
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
