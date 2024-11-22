@@ -1,35 +1,34 @@
 # Juyeong Shin, Bachelor Candidate
 * Computer Science & Engineering, Kyung Hee University
-* Software Engineer, Data & Knowledge Engineering Labortory, DKE Lab.
+* Software Engineer, ~~Data & Knowledge Engineering Labortory, DKE Lab.~~
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 
 ## Education
 * Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03 - 2026.02
-    - GPA: 3.6 / 4.3
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 - 2019.02
 
 ## Work Experience
 * 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
 * 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
 
-* 2024.09 -- 2024.12: RETURN Algorithm Study, **Study Leader**
+* 2024.09 - 2024.12: RETURN Algorithm Study, **Study Leader**
 * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
 
 ## Projects
-### Major Projects
+### Lab Projects
 - **Development of Graph DBMS Technology for Intelligent High Speed Processing of Large Graphs**, 2021 - 2024
     - Supervision: Institute of Information & Communications Technology Planning & Evaluation
     - Role: Research Intern (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
 
-### Minor Projects
-- **Foody Flavor**, 2024
-    - Python, bs4, selenium, PyTorch, PostgreSQL, Hadoop, Spark
+### Toy Projects
+- **Domestic Stock Followup Service(Stock Up)**, 2024
+    - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, Github Flow, AWS EC2, AWS RDS
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
-    - Ruby, HTML, CSS, JavaScript, Firebase, GitHub
+    - Ruby, Jekyll, node.js, Firebase, GitHub
 - **IoT Doorlock with Elevator**, 2018
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
