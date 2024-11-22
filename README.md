@@ -10,8 +10,10 @@
 
 ## Work Experience
 * 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
-* 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
 * 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
+
+* 2024.09 -- 2024.12: RETURN Algorithm Study, **Study Leader**
+* 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Lecturer**
 
 ## Projects
 ### Major Projects
