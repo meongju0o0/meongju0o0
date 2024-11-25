@@ -60,11 +60,11 @@
 * 2022 Korea Software Congress
 
 ### Club Activity
-* 2019.03 -- 2026.02: RETURN Academic Club
-    * 2024.09 -- 2024.12: RETURN Algorithm Study, **Study Leader**
-* 2022.09 -- 2023.02: T.G.WinG Academic Club
-    * 2022.09 -- 2022.12: T.G.WinG Machine Learning Study, **Study Leader**
-* 2024.03 -- 2026.02: Lighthouse Volunteering Club
+* 2019.03 - 2026.02: RETURN Academic Club
+    * 2024.09 - 2024.12: RETURN Algorithm Study, **Study Leader**
+* 2022.09 - 2023.02: T.G.WinG Academic Club
+    * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Study Leader**
+* 2024.03 - 2026.02: Lighthouse Volunteering Club
     * Accumulated Volunteer Hours: 48
 
 <!---
