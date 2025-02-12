@@ -9,7 +9,6 @@
 
 ## Work Experience
 * 2022.04 - 2024.08: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
-* 2022.06 - 2022.07: Samsung SDS Machine Learning Lecture, **Production of Practice Materials**
 
 ## Projects
 ### Lab Projects
@@ -20,6 +19,8 @@
         - Supports large graph learning engine design
 
 ### Toy Projects
+- **Emergency Room Comprehensive Situation Information Service**, 2025
+    - Dart, Flutter, Dart Frog, Python, PosgreSQL, LangChain, Gemma2
 - **Domestic Stock Followup Service(Stock Up)**, 2024
     - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, Github Flow, AWS EC2, AWS RDS
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
@@ -62,7 +63,7 @@
 * 2022.09 - 2023.02: T.G.WinG Academic Club
     * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Study Leader**
 * 2024.03 - 2026.02: Lighthouse Volunteering Club
-    * Accumulated Volunteer Hours: 54
+    * Accumulated Volunteer Hours: 72
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
