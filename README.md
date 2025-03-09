@@ -63,7 +63,7 @@
 * 2022.09 - 2023.02: T.G.WinG Academic Club
     * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, **Study Leader**
 * 2024.03 - 2026.02: Lighthouse Volunteering Club
-    * Accumulated Volunteer Hours: 72
+    * Accumulated Volunteer Hours: 74
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
