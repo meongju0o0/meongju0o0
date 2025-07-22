@@ -47,10 +47,10 @@
     * Korea Software Congress, 2022
 
 ## Research Interests
-* Vector Database / Retrieval Augmented Genration / Distributed Computing
+* Knowledge Graph / Recommender System / Retrieval-Augmented Generation
 
 ## Study Interests
-* Graph Algorithm / Natural Language Processing / Graph Convolutional Network
+* Vector Database / Graph Neural Network / Natural Language Processing
 
 ## Participations
 ### Conference
