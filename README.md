@@ -8,8 +8,7 @@
 * Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 - 2019.02
 
 ## Work Experience
-* 2022.04 - 2024.08: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
-* 2025.07 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
+* 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
 
 ## Projects
 ### Lab Projects
