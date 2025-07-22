@@ -9,6 +9,7 @@
 
 ## Work Experience
 * 2022.04 - 2024.08: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
+* 2025.07 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
 
 ## Projects
 ### Lab Projects
