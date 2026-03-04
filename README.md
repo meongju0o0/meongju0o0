@@ -4,8 +4,8 @@
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 
 ## Education
-* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor Candidate, 2019.03 - 2026.02
-* Gumi High School Science Department, Republic of Korea, High School Diploma, 2016.03 - 2019.02
+* Department of Artificial Intelligence, Kyung Hee University, Republic of Korea, Master Candidate, 2026.03 -- 2028.02
+* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor, 2019.03 -- 2026.02
 
 ## Work Experience
 * 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
@@ -41,6 +41,8 @@
     * Implementation: [Efficient-Sampling-Techniques-for-Embedding-Large-Graphs](https://github.com/meongju0o0/Efficient-Sampling-Techniques-for-Embedding-Large-Graphs)
 
 ## Awards and Honors
+* Participation Award in Undergraduate Paper Contest
+    * Korea Software Congress, 2025
 * Excellence Student Award in Yong-In Studies Class
     * Yong-In Special City, 2023
 * Excellence Award in Undergraduate Paper Contest
@@ -49,10 +51,10 @@
     * Korea Software Congress, 2022
 
 ## Research Interests
-* Knowledge Graph / Retrieval-Augmented Generation / Recommender System
+* Large Language Models / Retrieval-Augmented Generation / Knowledge Graph
 
 ## Study Interests
-* Vector Database / Graph Neural Networks / Natural Language Processing
+* Natural Language Processing / Vector Database / Graph Neural Networks
 
 ## Participations
 ### Conference
@@ -61,6 +63,8 @@
 * 2022 Korea Software Congress
 
 ### Club Activity
+* 2025.03 -- 2027.02: Buddha-Dhamma Religion Club
+    * 2025.08 -- 2026.01: Club Leader
 * 2019.03 - 2026.02: RETURN Academic Club
     * 2024.09 - 2024.12: RETURN Algorithm Study, Study Leader
 * 2022.09 - 2023.02: T.G.WinG Academic Club
