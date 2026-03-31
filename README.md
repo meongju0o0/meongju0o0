@@ -25,10 +25,14 @@
     - Python, bs4, selenium, node.js, crontab, MySQL, Hadoop, Spark, Github Flow, AWS EC2, AWS RDS
 - **Distributed GraphSAGE Training using DistDGL and K8s**, 2023
     - Ubuntu(WSL), NFS, Docker, K8s, Python, PyTorch, DGL
-- **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
-    - Ruby, Jekyll, node.js, Firebase, GitHub
 - **IoT Doorlock with Elevator**, 2018
     - C, Arduino, Serial, SPI, RFID, BlueTooth
+
+### Currently Managing Projects
+- **KIISE Database Society of Korea Digital Library**, 2026 --
+    - React.js, Express.js, MySQL
+- **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
+    - Ruby, Jekyll, node.js, Firebase, GitHub
 
 ## Publications
 * **Juyeong Shin**, Young-Koo Lee. (2025). [A Personalized News Recommendation System with User-Controlled Diversity](). Journal of Korea Software Congress, Pages - .
@@ -63,14 +67,14 @@
 * 2022 Korea Software Congress
 
 ### Club Activity
-* 2025.03 -- 2027.02: Buddha-Dhamma Religion Club
-    * 2025.08 -- 2026.01: Club Leader
+* 2025.03 - 2027.02: Buddha-Dhamma Religion Club
+    * 2025.08 - 2026.01: Club Leader
 * 2019.03 - 2026.02: RETURN Academic Club
     * 2024.09 - 2024.12: RETURN Algorithm Study, Study Leader
 * 2022.09 - 2023.02: T.G.WinG Academic Club
     * 2022.09 - 2022.12: T.G.WinG Machine Learning Study, Study Leader
 * 2024.03 - 2026.02: Lighthouse Volunteering Club
-    * Accumulated Volunteer Hours: 74
+    * Volunteer Hours: 74
 
 <!---
 meongju0o0/meongju0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
