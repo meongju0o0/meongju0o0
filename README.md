@@ -29,7 +29,7 @@
     - C, Arduino, Serial, SPI, RFID, BlueTooth
 
 ### Currently Managing Projects
-- **KIISE Database Society of Korea Digital Library**, 2026 --
+- **KIISE Database Society of Korea Digital Library**, 2026 -
     - React.js, Express.js, MySQL
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 -
     - Ruby, Jekyll, node.js, Firebase, GitHub
