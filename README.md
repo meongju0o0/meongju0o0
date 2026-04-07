@@ -4,10 +4,11 @@
 * Email: [bl4angel20@khu.ac.kr](mailto:bl4angel20@khu.ac.kr) / [bl4angel20@gmail.com](mailto:bl4angel20@gmail.com)
 
 ## Education
-* Department of Artificial Intelligence, Kyung Hee University, Republic of Korea, Master Candidate, 2026.03 -- 2028.02
-* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor, 2019.03 -- 2026.02
+* Department of Artificial Intelligence, Kyung Hee University, Republic of Korea, Master Candidate, 2026.03 - 2028.02
+* Department of Computer Science and Engineering, Kyung Hee University, Republic of Korea, Bachelor, 2019.03 - 2026.02
 
 ## Work Experience
+* 2026.03 - 2028.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Mastrer Student**
 * 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
 
 ## Projects
@@ -35,7 +36,7 @@
     - Ruby, Jekyll, node.js, Firebase, GitHub
 
 ## Publications
-* **Juyeong Shin**, Young-Koo Lee. (2025). [A Personalized News Recommendation System with User-Controlled Diversity](). Journal of Korea Software Congress, Pages - .
+* **Juyeong Shin**, Young-Koo Lee. (2025). [A Personalized News Recommendation System with User-Controlled Diversity](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577759). Journal of Korea Software Congress, Pages 1139 - 1141.
     * Implementation: [🌈UC-DIVERSI](https://github.com/meongju0o0/UC-DIVERISI)
 * **Juyeong Shin**, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705601). Journal of Korea Software Congress, Pages 1800 - 1802.
     * Implementation: [DistMHAug](https://github.com/meongju0o0/DistMHAug)
