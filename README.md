@@ -18,6 +18,9 @@
     - Role: Research Intern (2022 - 2024)
         - Investigate existing studies for large graph integration
         - Supports large graph learning engine design
+- **POLARIS: 딥러닝 기반의 범용 절차적 SQL 최적화 시스템 기술 연구**, 2026 -
+    - Supervision: National Research Foundation(NRF) of Korea
+    - Role: Paricipation Researcher (2026 -)
 
 ### Toy Projects
 - **Emergency Room Comprehensive Situation Information Service**, 2025
