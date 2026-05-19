@@ -39,6 +39,8 @@
     - Ruby, Jekyll, node.js, Firebase, GitHub
 
 ## Publications
+* **Juyeong Shin**, Young-Koo Lee. (2025). [Analysis of Learning-Based UDF Cost Estimation and Query Optimization Across Database Management Systems](). Journal of Korea Software Congress, Pages -- .
+    * Implementation: [](https://github.com/meongju0o0/)
 * **Juyeong Shin**, Young-Koo Lee. (2025). [A Personalized News Recommendation System with User-Controlled Diversity](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577759). Journal of Korea Software Congress, Pages 1139 - 1141.
     * Implementation: [🌈UC-DIVERSI](https://github.com/meongju0o0/UC-DIVERISI)
 * **Juyeong Shin**, Young-Koo Lee. (2023). [Distributed Data Augmentation Technique for Graph Neural Network](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705601). Journal of Korea Software Congress, Pages 1800 - 1802.
