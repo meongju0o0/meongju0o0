@@ -9,7 +9,7 @@
 
 ## Work Experience
 * 2026.03 - 2028.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Master Student**
-* 2022.04 - 2026.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Research Intern**
+* 2022.03 -- 2026.02: Data & Knowledge Engineering Laboratory, Kyung Hee University, **Undergraduate Intern**
 
 ## Projects
 ### Lab Projects
@@ -36,7 +36,7 @@
 - **KIISE Database Society of Korea Digital Library**, 2026 --
     - Nginx, SQLite, React.js, Express.js
     - Source Code: [kdbc-papers](https://github.com/meongju0o0/kdbc-papers)
-    - [http://163.180.116.100:8080/](http://163.180.116.100:8080/)
+    - [https://dkelab.kr/kdbc-papers](https://dkelab.kr/kdbc-papers)
 - **Jekyll Minimal Mistakes Blog Customizing**, 2022 --
     - Ruby, Jekyll, node.js, Firebase, GitHub
     - Source Code: [meongju0o0.github.io](https://github.com/meongju0o0/meongju0o0.github.io)
@@ -73,6 +73,7 @@
 
 ## Participations
 ### Conference
+* 2026 Korea Computer Congress
 * 2025 Korea Software Congress
 * 2023 Korea Software Congress
 * 2022 Korea Software Congress
