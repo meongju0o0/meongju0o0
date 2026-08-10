@@ -20,7 +20,10 @@
         - Supports large graph learning engine design
 - **POLARIS: 딥러닝 기반의 범용 절차적 SQL 최적화 시스템 기술 연구**, 2026 -
     - Supervision: National Research Foundation of Korea (NRF)
-    - Role: Paricipation Researcher (2026 -)
+    - Role: Participation Researcher (2026 -)
+- **지식그래프 취약점 진단 기반 SCM 자동 생성 및 시뮬레이션 프레임워크**, 2026 --
+    - Supervision: Korea Advanced Institute of Science and Technology (KAIST)
+    - Role: Participation Researcher (2026 --)
 
 ### Toy Projects
 - **Emergency Room Comprehensive Situation Information Service**, 2025
@@ -44,7 +47,7 @@
 
 ## Publications
 ### Domestic Conference
-* **Juyeong Shin**, Young-Koo Lee. (2026). [Analysis of Learning-Based UDF Cost Estimation and Query Optimization Across Database Management Systems](). Journal of Korea Computer Congress, Pages - .
+* **Juyeong Shin**, Young-Koo Lee. (2026). [Analysis of Learning-Based UDF Cost Estimation and Query Optimization Across Database Management Systems](https://www.dbpia.co.kr/). Journal of Korea Computer Congress, Pages 513 - 515.
     * Implementation: [](https://github.com/meongju0o0/)
 * **Juyeong Shin**, Young-Koo Lee. (2025). [A Personalized News Recommendation System with User-Controlled Diversity](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577759). Journal of Korea Software Congress, Pages 1139 - 1141.
     * Implementation: [🌈UC-DIVERSI](https://github.com/meongju0o0/UC-DIVERISI)
@@ -71,7 +74,7 @@
 ## Study Interests
 * Natural Language Processing / Vector Database / Graph Neural Networks
 
-## Participations
+## Participation
 ### Conference
 * 2026 Korea Computer Congress
 * 2025 Korea Software Congress
