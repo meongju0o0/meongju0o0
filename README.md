@@ -9,7 +9,7 @@
 
 ## Work Experience
 * 2026.03 - 2028.02: Data & Knowledge Engineering Labortory, Kyung Hee University, **Master Student**
-* 2022.03 -- 2026.02: Data & Knowledge Engineering Laboratory, Kyung Hee University, **Undergraduate Intern**
+* 2022.03 - 2026.02: Data & Knowledge Engineering Laboratory, Kyung Hee University, **Undergraduate Intern**
 
 ## Projects
 ### Lab Projects
@@ -21,7 +21,7 @@
 - **POLARIS: 딥러닝 기반의 범용 절차적 SQL 최적화 시스템 기술 연구**, 2026 -
     - Supervision: National Research Foundation of Korea (NRF)
     - Role: Participation Researcher (2026 -)
-- **지식그래프 취약점 진단 기반 SCM 자동 생성 및 시뮬레이션 프레임워크**, 2026 --
+- **지식그래프 취약점 진단 기반 SCM 자동 생성 및 시뮬레이션 프레임워크**, 2026 -
     - Supervision: Korea Advanced Institute of Science and Technology (KAIST)
     - Role: Participation Researcher (2026 --)
 
